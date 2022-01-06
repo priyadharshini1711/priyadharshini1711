@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyadharshini</h1>
-<h3 align="center">A passionate full stack developer builds projects as a hobby.</h3>
+<h3 align="center">A passionate full stack developer and builds projects for hobby.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyadharshini1711&label=Profile%20views&color=0e75b6&style=flat" alt="priyadharshini1711" /> </p>
 
